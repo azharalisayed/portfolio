@@ -54,7 +54,13 @@ class TextScramble {
   
   
   const phrases = [
-  'Web Developer',
+  'Full Stack Developer',
+      'C# Developer',
+      'ASP.NET Developer',
+      'Blazor Developer',
+      'SMM',
+      'ERP System',
+      'Technical Support',
   'PHP Developer',
   'Wordpress Developer',
   'SEO',
